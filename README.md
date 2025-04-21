@@ -1,4 +1,4 @@
-[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)]
+![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)
 
 # Hi, I'm Shubh Raj Singh 👋
 
