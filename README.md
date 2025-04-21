@@ -1,3 +1,5 @@
+[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)]
+
 # Hi, I'm Shubh Raj Singh 👋
 
 I'm a passionate full-stack developer who loves building web apps.
