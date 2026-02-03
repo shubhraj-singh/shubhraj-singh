@@ -1,6 +1,6 @@
 # Hi, I'm Shubh Raj Singh 👋
 
-I'm a passionate full-stack developer who loves building web apps.
+I'm a passionate full-stack Java developer who loves building apps which is highly secure and reliable.
 
 ## 🚀 Skills
 - JavaScript | React | Node.js
